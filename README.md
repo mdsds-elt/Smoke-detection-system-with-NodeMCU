@@ -4,15 +4,21 @@
   <p align="center"></p>
 </p>
 
+ #### HARDWARE: PLACA DE PROTOTIPAGEM 
+  
+- `NODEMCU ESP12` - ESP8266
  
- #### Material - GPIO'S:
+ #### MATERIAL: GPIO'S
 
 - `MQ2` - A0 
 - `LED-VERMELHO` - D5
 - `LED-VERDE` - D6
 - `BUZZER` - D3 
 
- 
+ #### SOFTWARE: AMBIENTE DE DESENVOLVIMENTO.
+
+[![image](https://user-images.githubusercontent.com/81829451/130110086-8e7d3901-294c-4242-becd-65d1df4f7e08.png)](https://www.arduino.cc/en/software)
+
  <hr>
 
 
