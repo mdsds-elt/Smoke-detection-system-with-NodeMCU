@@ -1,2 +1,2 @@
 
-Detector MQ-2 com notificação de alerta por e-mail usando ESP8266
+Detector MQ-2 com alerta buzzer usando ESP8266
