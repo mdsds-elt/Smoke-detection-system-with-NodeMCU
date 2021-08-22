@@ -24,7 +24,12 @@
 ### IMAGEM DO PROJETO
 
 
-<img src="https://user-images.githubusercontent.com/81829451/130363162-09429577-7e1e-4d28-a49c-dee19eccf2f9.png" width="324" height="200">
+<img src="https://user-images.githubusercontent.com/81829451/130363162-09429577-7e1e-4d28-a49c-dee19eccf2f9.png" width="324" height="200">   `LED VERDE` - SEM APRESENÇA DE GÁS NOCIVO.          
+<img src="https://user-images.githubusercontent.com/81829451/130363228-4e6608e1-55c5-485d-885e-6550999ab1b6.png" width="324" height="200">   `LED VERMELHO` - COM APRESENÇA DE GÁS NOCIVO.
+
+
+
+
 
 
 
