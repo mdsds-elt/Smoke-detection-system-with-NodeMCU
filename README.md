@@ -24,7 +24,10 @@
 ### IMAGEM DO PROJETO
 
 
-<img src=" " width="324" height="324">
+<img src="https://user-images.githubusercontent.com/81829451/130363162-09429577-7e1e-4d28-a49c-dee19eccf2f9.png" width="324" height="200">
+
+
+
 
 
 
